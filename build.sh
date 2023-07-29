@@ -1,0 +1,1 @@
+g++ main.cpp -o game/prog -lsfml-graphics -lsfml-window -lsfml-system
